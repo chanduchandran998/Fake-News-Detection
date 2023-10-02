@@ -6,9 +6,6 @@
 ## [Buy Python & ML projects for students at lower rate](https://www.instamojo.com/kushalbhavsar1820)
 
 ### Sourcerer
-<a href="https://sourcerer.io/spidy20"><img src="![Pic](https://github.com/chanduchandran998/Fake-News-Detection/assets/47351632/89bf74eb-5848-45cc-a135-5caa8b0dfe42)
-" height="50px" width="50px" alt=""/></a>
-
 
 
 
