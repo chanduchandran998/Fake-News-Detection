@@ -8,7 +8,8 @@
 ### Sourcerer
 <a href="https://sourcerer.io/spidy20"><img src="https://avatars2.githubusercontent.com/u/42056100?v=4" height="50px" width="50px" alt=""/></a>
 
-<img src="https://github.com/Spidy20/Fake_News_Detection/blob/master/fn.jpg">
+![Pic](https://github.com/chanduchandran998/Fake-News-Detection/assets/47351632/d51bb21b-a0d2-40ce-a4a7-3e5b7d91363a)
+
 
 ## [See the Tutorial of this Project](https://youtu.be/GS_ylghUtLQ)
 
